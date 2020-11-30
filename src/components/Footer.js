@@ -4,13 +4,13 @@ import "../components/Footer.css";
 function Footer() {
   return (
     <div>
-      <div className="container">
+      <div className="container-fluid">
         <footer className="footer-contact">
           <div className="row">
-            <div className="col-2">
+            <div className="col-sm-6">
               <h2>Contact</h2>
             </div>
-            <div className="col-2">
+            <div className="col-sm-2">
               <h3>Email</h3>
               <p>
                 <a href="mailto:xavierejackson20@gmail.com">
@@ -18,7 +18,7 @@ function Footer() {
                 </a>
               </p>
             </div>
-            <div className="col-2">
+            <div className="col-sm-2">
               <h3>LinkedIn</h3>
               <p>
                 <a
@@ -30,7 +30,7 @@ function Footer() {
                 </a>
               </p>
             </div>
-            <div className="col-2">
+            <div className="col-sm-2">
               <h3>GitHub</h3>
               <p>
                 <a
