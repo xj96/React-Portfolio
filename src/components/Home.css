@@ -1,0 +1,16 @@
+img {
+  height: 100%;
+  width: 100px;
+}
+
+.background {
+  height: 100%;
+  width: 1450px;
+  position: fixed;
+  z-index: 0;
+}
+
+.container {
+    position: relative;
+    z-index: 2;
+}

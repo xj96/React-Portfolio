@@ -2,6 +2,7 @@ import React from "react";
 import Footer from "../Footer";
 import "/Users/xavierjackson/Desktop/Homework/React Portfolio/reactportfolio/src/components/About.css"
 
+
 function About() {
   return (
     <div>

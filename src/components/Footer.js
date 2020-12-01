@@ -10,6 +10,7 @@ function Footer() {
             <div className="col-sm-6">
               <h2>Contact</h2>
             </div>
+            <br/>
             <div className="col-sm-2">
               <h3>Email</h3>
               <p>
@@ -18,6 +19,7 @@ function Footer() {
                 </a>
               </p>
             </div>
+            <br/>
             <div className="col-sm-2">
               <h3>LinkedIn</h3>
               <p>
@@ -30,6 +32,7 @@ function Footer() {
                 </a>
               </p>
             </div>
+            <br/>
             <div className="col-sm-2">
               <h3>GitHub</h3>
               <p>
