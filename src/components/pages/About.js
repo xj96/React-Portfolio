@@ -1,7 +1,6 @@
 import React from "react";
 import Footer from "../Footer";
-import "/Users/xavierjackson/Desktop/Homework/React Portfolio/reactportfolio/src/components/About.css"
-
+import "/Users/xavierjackson/Desktop/Homework/React Portfolio/reactportfolio/src/components/About.css";
 
 function About() {
   return (
@@ -24,8 +23,8 @@ function About() {
           I'm excited to leverage my skills as a web developer and a graphic
           designer to build useful and engaging web applications for users.
         </p>
-        <Footer />
       </div>
+      <Footer />
     </div>
   );
 }
