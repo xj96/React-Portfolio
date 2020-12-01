@@ -1,4 +1,5 @@
 import React from "react";
+import "/Users/xavierjackson/Desktop/Homework/React Portfolio/reactportfolio/src/components/NavTabs.css"
 
 function NavTabs(props) {
   return (
