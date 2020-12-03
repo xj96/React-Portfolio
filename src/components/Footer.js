@@ -8,10 +8,10 @@ function Footer() {
         <footer className="footer-contact">
           <div className="row">
             <div className="col-sm-6">
-              <h2>Contact</h2>
+              <h2>Contact Information</h2>
             </div>
             <br/>
-            <div className="col-sm-2">
+            <div className="col-sm-2 contact-item">
               <h3>Email</h3>
               <p>
                 <a href="mailto:xavierejackson20@gmail.com">
@@ -20,7 +20,7 @@ function Footer() {
               </p>
             </div>
             <br/>
-            <div className="col-sm-2">
+            <div className="col-sm-2 contact-item">
               <h3>LinkedIn</h3>
               <p>
                 <a
@@ -33,7 +33,7 @@ function Footer() {
               </p>
             </div>
             <br/>
-            <div className="col-sm-2">
+            <div className="col-sm-2 contact-item">
               <h3>GitHub</h3>
               <p>
                 <a

@@ -1,9 +1,11 @@
-.nav{
-    background-color: rgb(8, 52, 109);
+.nav {
+  background-color: rgb(8, 52, 109);
 }
 
-a:hover {
+.nav-item a:hover {
   color: rgb(255, 225, 77);
 }
 
-
+.nav-name{
+    color: white;
+}

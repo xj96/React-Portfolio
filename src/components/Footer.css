@@ -13,3 +13,6 @@
   margin-top: 20px;
 }
 
+.contact-item a:hover {
+  color: rgb(255, 225, 77);
+}
