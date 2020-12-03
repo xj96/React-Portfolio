@@ -1,5 +1,5 @@
 .footer-contact {
-  position: absolute;
+  position: fixed;
   left: 0;
   bottom: 0;
   width: 100%;
@@ -11,6 +11,7 @@
   padding-right: 20px;
   padding-bottom: 15px;
   margin-top: 20px;
+  z-index: 100;
 }
 
 .contact-item a:hover {
