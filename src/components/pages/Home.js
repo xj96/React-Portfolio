@@ -9,7 +9,6 @@ function Home() {
       <div className="col-flex">
         <img className="background" src={XJ} alt="Background" />
       </div>
-      {/* <hr className="section-divider"/> */}
       <div className="container">
         <div className="row">
           <div className="col">
@@ -19,23 +18,68 @@ function Home() {
         <div className="row">
           <div className="col">
             <p>
-              I am a Front-End Web Developer with Graphic Design experience
-              looking for entry-level opportunites in software development.
+              I am a Front-End Web Developer with a background in Graphic
+              Design. Effective at combining creativity and problem solving
+              skills to develop user-friendly applications. I have great
+              attention to detail and time management skills. I am always ready
+              to learn and bring my skills to the table!
             </p>
           </div>
         </div>
         <div className="row">
-          <div className="col test-shape-0"></div>
+          <div className="col test-shape-0">
+            <div className="experience">
+              <h4>Experience</h4>
+              <p className="job-title">Trainer</p>
+              <p className="job-year">2018 - Current</p>
+              <p className="job-company">Global Kids Inc.</p>
+              <p className="job-location">New York City, NY</p>
+              <p className="job-description">
+                Worked on a team of 7 to successfully run an afterschool program
+                for 90 public school students. Created and ran workshops on
+                youth development, SEL, and digital art with an emphasis in
+                vector based drawing. Also assisted in teaching students the
+                basics of HTML coding.
+              </p>
+            </div>
+            <div className="experience">
+              <p className="job-title">Freelance Graphic Designer</p>
+              <p className="job-year">2018 - Current</p>
+              <p className="job-company">Self-Employed</p>
+              <p className="job-location">New York City, NY</p>
+              <p className="job-description">
+                Designed logos, logo animations, social media banners, and
+                illustrations for clients while under pressure to meet
+                deadlines.
+              </p>
+            </div>
+            <div className="education">
+              <h4>Education</h4>
+              <p className="edu-title">
+                Software Development Bootcamp Certificate
+              </p>
+              <p className="edu-year">2020</p>
+              <p className="edu-location">
+                Columbia University, New York City, NY
+              </p>
+              <p className="edu-description">
+                A 12-week intensive program focused on gaining technical
+                programming skills in HTML5, CSS3, Javascript, JQuery,
+                Bootstrap, APIs, JSON, AJAX, Node.js, Express.js, React.js,
+                MySQL, MongoDB, and CS Fundamentals.
+              </p>
+              <p className="edu-title">SUNY College of Technology at Canton</p>
+              <p className="edu-year">2014 - 2018</p>
+              <p className="edu-location">Canton, NY</p>
+              <p className="edu-description">
+                Bachelor’s Degree in Graphic Design
+              </p>
+            </div>
+          </div>
         </div>
-        <div className="row">
-          <div className="col test-shape-0"></div>
-        </div>
-        <div className="row">
-          <div className="col-flex test-shape-1"></div>
-        </div>
-        <div className="row">
-          <div className="col-flex test-shape-1"></div>
-        </div>
+      </div>
+      <div className="skills">
+        <h4>Skills</h4>
       </div>
       <Footer />
     </div>
