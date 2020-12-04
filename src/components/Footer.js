@@ -4,7 +4,7 @@ import "../components/Footer.css";
 function Footer() {
   return (
     <div>
-      <div className="container-fluid">
+      <div className="container-flex">
         <footer className="footer-contact">
           <div className="row">
             <div className="col-sm-6">
@@ -44,6 +44,10 @@ function Footer() {
                   Click Here for my GitHub
                 </a>
               </p>
+            </div>
+            <div className="col-sm-2 contact-item">
+              <h3>Phone</h3>
+              <p>(917) 353 - 8546</p>
             </div>
           </div>
         </footer>
