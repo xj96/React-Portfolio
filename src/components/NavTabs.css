@@ -1,5 +1,6 @@
 .nav {
   background-color: rgb(8, 52, 109);
+  margin: auto;
 }
 
 .nav-item a:hover {
@@ -8,4 +9,7 @@
 
 .nav-name{
     color: white;
+    font-weight: lighter;
+    font-size: 24px;
+    margin: auto;
 }
