@@ -10,6 +10,10 @@
   z-index: 0;
 }
 
+h4 {
+  font-weight: 500;
+}
+
 .container {
   padding-top: 10px;
   overflow: auto;
@@ -37,19 +41,22 @@
 
 .job-title {
   float: left;
-  font-weight: bold;
+  font-weight: 500;
 }
 
 .job-year {
   text-align: right;
+  font-weight: 500;
 }
 
 .job-company {
   float: left;
+  font-weight: 300;
 }
 
 .job-location {
   text-align: right;
+  font-weight: 300;
 }
 
 .job-description {
@@ -63,15 +70,17 @@
 
 .edu-title {
   float: left;
-  font-weight: bold;
+  font-weight: 500;
 }
 
 .edu-year {
   text-align: right;
+  font-weight: 500;
 }
 
 .edu-location {
   text-align: left;
+  font-weight: 300;
 }
 
 .edu-description {
@@ -81,14 +90,14 @@
 
 .skills {
   margin-top: 20px;
-  height: 180px;
-  background-color: rgb(172, 213, 231);
+  height: 190px;
+  background-color: rgba(0, 0, 0, 0.785);
   color: white;
 }
 
-.skills h4 {
+.skills h3 {
   text-align: center;
-  font-weight: bold;
+  font-weight: 200;
   margin-top: 10px;
   margin-bottom: 20px;
 }
@@ -100,5 +109,6 @@
 .skills li {
   list-style: none;
   text-align: center;
-  font-weight: bold;
+  font-weight: 200;
+  font-size: 18px;
 }

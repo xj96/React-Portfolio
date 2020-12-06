@@ -12,7 +12,7 @@ function Home() {
       <div className="container">
         <div className="row">
           <div className="col">
-            <h3>Hello, my name is Xavier!</h3>
+            <h4>Hello, my name is Xavier!</h4>
           </div>
         </div>
         <div className="row">
@@ -81,7 +81,7 @@ function Home() {
       <div className="skills">
         <div className="row">
           <div className="col-12">
-            <h4>Technical Proficiencies</h4>
+            <h3>Technical Proficiencies</h3>
           </div>
         </div>
 
