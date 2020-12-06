@@ -11,6 +11,24 @@
   z-index: 100;
 }
 
+.contact-item{
+  margin-bottom: 5px;
+}
+
 .contact-item a:hover {
   color: rgb(255, 225, 77);
+}
+
+h2{
+  font-weight: 200;
+  font-size: 25px;
+}
+
+.contact-item h3{
+  font-weight: 100;
+  font-size: 20px;
+}
+
+.contact-item p{
+  font-weight: 150;
 }
