@@ -1,3 +1,5 @@
+/* Mobile Sizing */
+
 .background {
   height: 100%;
   width: 500px;
@@ -78,7 +80,25 @@
 }
 
 .skills {
-  height: 300px;
+  margin-top: 20px;
+  height: 180px;
   background-color: rgb(172, 213, 231);
   color: white;
+}
+
+.skills h4 {
+  text-align: center;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.skills ul {
+  padding-left: 1px;
+}
+
+.skills li {
+  list-style: none;
+  text-align: center;
+  font-weight: bold;
 }

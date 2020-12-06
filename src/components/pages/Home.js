@@ -79,7 +79,30 @@ function Home() {
         </div>
       </div>
       <div className="skills">
-        <h4>Skills</h4>
+        <div className="row">
+          <div className="col-12">
+            <h4>Technical Proficiencies</h4>
+          </div>
+        </div>
+
+        <div className="row">
+          <div className="col-6">
+            <ul>
+              <li>HTML</li>
+              <li>CSS</li>
+              <li>Javascript</li>
+              <li>MySQL</li>
+            </ul>
+          </div>
+          <div className="col-6">
+            <ul>
+              <li>MongoDB</li>
+              <li>Express.js</li>
+              <li>Node.js</li>
+              <li>React.js</li>
+            </ul>
+          </div>
+        </div>
       </div>
       <Footer />
     </div>
