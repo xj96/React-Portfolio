@@ -1,13 +1,13 @@
 import React from "react";
 import Footer from "../Footer";
 import "/Users/xavierjackson/Desktop/Homework/React Portfolio/reactportfolio/src/components/Home.css";
-import XJ from "/Users/xavierjackson/Desktop/Homework/React Portfolio/reactportfolio/src/images/XJ.jpg";
+import BG from "/Users/xavierjackson/Desktop/Homework/React Portfolio/reactportfolio/src/images/Website-Design-Background.png"
 
 function Home() {
   return (
     <div>
       <div className="col-flex">
-        <img className="background" src={XJ} alt="Background" />
+        <img className="background" src={BG} alt="Background" />
       </div>
       <div className="container">
         <div className="row">
