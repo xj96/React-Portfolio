@@ -6,6 +6,9 @@ import BG from "/Users/xavierjackson/Desktop/Homework/React Portfolio/reactportf
 function Home() {
   return (
     <div>
+      <div>
+        <h1 className="welcome-message">Welcome to my Website</h1>
+      </div>
       <div className="col-flex">
         <img className="background" src={BG} alt="Background" />
       </div>

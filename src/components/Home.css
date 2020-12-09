@@ -1,13 +1,27 @@
 /* Mobile Sizing */
 
+
+h4 {
+  font-weight: 500;
+}
+
+.welcome-message{
+  margin: auto;
+  text-align: center;
+  position: relative;
+  height: 0px;
+  top: 80px;
+  z-index: 1;
+  color: white;
+  font-size: 58px;
+  font-weight: 300;
+  font-style: oblique;
+}
+
 .background {
   height: 100%;
   width: 100%;
   z-index: 0;
-}
-
-h4 {
-  font-weight: 500;
 }
 
 .container {
