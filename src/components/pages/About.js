@@ -1,14 +1,18 @@
 import React from "react";
 import Footer from "../Footer";
 import "/Users/xavierjackson/Desktop/Homework/React Portfolio/reactportfolio/src/components/About.css";
+import XJ from "/Users/xavierjackson/Desktop/Homework/React Portfolio/reactportfolio/src/images/IMG_0509.JPG"
 
 function About() {
   return (
     <div>
+      <div>
+        <img src={XJ} alt="Xavier"></img>
+      </div>
       <div className="container">
         <h3>About Me</h3>
         <p>
-          I am an aspiring Front End Web Developer with graphic design
+          I am a Front End Web Developer with graphic design
           experience focusing in logo creation and branding. Recently, I earned
           a certificate from Columbia Engineering School in Software Development
           to complement my skills as a graphic designer. My technical skills

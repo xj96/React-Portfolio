@@ -1,7 +1,7 @@
 import React from "react";
 import Footer from "../Footer";
 import "/Users/xavierjackson/Desktop/Homework/React Portfolio/reactportfolio/src/components/Home.css";
-import BG from "/Users/xavierjackson/Desktop/Homework/React Portfolio/reactportfolio/src/images/Website-Design-Background.png"
+import BG from "/Users/xavierjackson/Desktop/Homework/React Portfolio/reactportfolio/src/images/Website-Design-Background.png";
 
 function Home() {
   return (

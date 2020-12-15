@@ -1,3 +1,12 @@
-p {
-  margin-bottom: auto;
+h3{
+  font-weight: 500;
+}
+
+img{
+  height: 100%;
+  width: 100%;
+}
+
+.container{
+  margin-bottom: 20px;
 }
